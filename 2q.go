@@ -7,7 +7,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/ypapax/golang-lru/v2/simplelru"
+	"github.com/viru-tech/golang-lru/v2/simplelru"
 )
 
 const (
